@@ -1,1 +1,1 @@
-this is for static library
+this is for static library project
