@@ -1,1 +1,1 @@
-this is for functions and pointers
+This is for functions and pointers
